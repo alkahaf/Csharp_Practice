@@ -1,0 +1,15 @@
+D:\CODING\Practice\L1SwapWithoutTemp\L1SwapWithoutTemp\bin\Debug\net10.0\L1SwapWithoutTemp.exe
+D:\CODING\Practice\L1SwapWithoutTemp\L1SwapWithoutTemp\bin\Debug\net10.0\L1SwapWithoutTemp.deps.json
+D:\CODING\Practice\L1SwapWithoutTemp\L1SwapWithoutTemp\bin\Debug\net10.0\L1SwapWithoutTemp.runtimeconfig.json
+D:\CODING\Practice\L1SwapWithoutTemp\L1SwapWithoutTemp\bin\Debug\net10.0\L1SwapWithoutTemp.dll
+D:\CODING\Practice\L1SwapWithoutTemp\L1SwapWithoutTemp\bin\Debug\net10.0\L1SwapWithoutTemp.pdb
+D:\CODING\Practice\L1SwapWithoutTemp\L1SwapWithoutTemp\obj\Debug\net10.0\L1SwapWithoutTemp.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODING\Practice\L1SwapWithoutTemp\L1SwapWithoutTemp\obj\Debug\net10.0\L1SwapWithoutTemp.AssemblyInfoInputs.cache
+D:\CODING\Practice\L1SwapWithoutTemp\L1SwapWithoutTemp\obj\Debug\net10.0\L1SwapWithoutTemp.AssemblyInfo.cs
+D:\CODING\Practice\L1SwapWithoutTemp\L1SwapWithoutTemp\obj\Debug\net10.0\L1SwapWithoutTemp.csproj.CoreCompileInputs.cache
+D:\CODING\Practice\L1SwapWithoutTemp\L1SwapWithoutTemp\obj\Debug\net10.0\L1SwapWithoutTemp.dll
+D:\CODING\Practice\L1SwapWithoutTemp\L1SwapWithoutTemp\obj\Debug\net10.0\refint\L1SwapWithoutTemp.dll
+D:\CODING\Practice\L1SwapWithoutTemp\L1SwapWithoutTemp\obj\Debug\net10.0\L1SwapWithoutTemp.pdb
+D:\CODING\Practice\L1SwapWithoutTemp\L1SwapWithoutTemp\obj\Debug\net10.0\L1SwapWithoutTemp.genruntimeconfig.cache
+D:\CODING\Practice\L1SwapWithoutTemp\L1SwapWithoutTemp\obj\Debug\net10.0\ref\L1SwapWithoutTemp.dll
+D:\CODING\Practice\L1SwapWithoutTemp\L1SwapWithoutTemp\obj\Debug\net10.0\L1SwapWi.383D5CCB.Up2Date

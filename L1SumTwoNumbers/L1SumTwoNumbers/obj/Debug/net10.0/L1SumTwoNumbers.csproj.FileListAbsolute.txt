@@ -1,0 +1,15 @@
+D:\CODING\Practice\L1SumTwoNumbers\L1SumTwoNumbers\bin\Debug\net10.0\L1SumTwoNumbers.exe
+D:\CODING\Practice\L1SumTwoNumbers\L1SumTwoNumbers\bin\Debug\net10.0\L1SumTwoNumbers.deps.json
+D:\CODING\Practice\L1SumTwoNumbers\L1SumTwoNumbers\bin\Debug\net10.0\L1SumTwoNumbers.runtimeconfig.json
+D:\CODING\Practice\L1SumTwoNumbers\L1SumTwoNumbers\bin\Debug\net10.0\L1SumTwoNumbers.dll
+D:\CODING\Practice\L1SumTwoNumbers\L1SumTwoNumbers\bin\Debug\net10.0\L1SumTwoNumbers.pdb
+D:\CODING\Practice\L1SumTwoNumbers\L1SumTwoNumbers\obj\Debug\net10.0\L1SumTwoNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODING\Practice\L1SumTwoNumbers\L1SumTwoNumbers\obj\Debug\net10.0\L1SumTwoNumbers.AssemblyInfoInputs.cache
+D:\CODING\Practice\L1SumTwoNumbers\L1SumTwoNumbers\obj\Debug\net10.0\L1SumTwoNumbers.AssemblyInfo.cs
+D:\CODING\Practice\L1SumTwoNumbers\L1SumTwoNumbers\obj\Debug\net10.0\L1SumTwoNumbers.csproj.CoreCompileInputs.cache
+D:\CODING\Practice\L1SumTwoNumbers\L1SumTwoNumbers\obj\Debug\net10.0\L1SumTwoNumbers.dll
+D:\CODING\Practice\L1SumTwoNumbers\L1SumTwoNumbers\obj\Debug\net10.0\refint\L1SumTwoNumbers.dll
+D:\CODING\Practice\L1SumTwoNumbers\L1SumTwoNumbers\obj\Debug\net10.0\L1SumTwoNumbers.pdb
+D:\CODING\Practice\L1SumTwoNumbers\L1SumTwoNumbers\obj\Debug\net10.0\L1SumTwoNumbers.genruntimeconfig.cache
+D:\CODING\Practice\L1SumTwoNumbers\L1SumTwoNumbers\obj\Debug\net10.0\ref\L1SumTwoNumbers.dll
+D:\CODING\Practice\L1SumTwoNumbers\L1SumTwoNumbers\obj\Debug\net10.0\L1SumTwo.661D05D0.Up2Date

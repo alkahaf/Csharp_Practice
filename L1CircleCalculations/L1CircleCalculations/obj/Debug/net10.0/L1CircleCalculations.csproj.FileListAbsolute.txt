@@ -1,0 +1,15 @@
+D:\CODING\Practice\L1CircleCalculations\L1CircleCalculations\bin\Debug\net10.0\L1CircleCalculations.exe
+D:\CODING\Practice\L1CircleCalculations\L1CircleCalculations\bin\Debug\net10.0\L1CircleCalculations.deps.json
+D:\CODING\Practice\L1CircleCalculations\L1CircleCalculations\bin\Debug\net10.0\L1CircleCalculations.runtimeconfig.json
+D:\CODING\Practice\L1CircleCalculations\L1CircleCalculations\bin\Debug\net10.0\L1CircleCalculations.dll
+D:\CODING\Practice\L1CircleCalculations\L1CircleCalculations\bin\Debug\net10.0\L1CircleCalculations.pdb
+D:\CODING\Practice\L1CircleCalculations\L1CircleCalculations\obj\Debug\net10.0\L1CircleCalculations.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODING\Practice\L1CircleCalculations\L1CircleCalculations\obj\Debug\net10.0\L1CircleCalculations.AssemblyInfoInputs.cache
+D:\CODING\Practice\L1CircleCalculations\L1CircleCalculations\obj\Debug\net10.0\L1CircleCalculations.AssemblyInfo.cs
+D:\CODING\Practice\L1CircleCalculations\L1CircleCalculations\obj\Debug\net10.0\L1CircleCalculations.csproj.CoreCompileInputs.cache
+D:\CODING\Practice\L1CircleCalculations\L1CircleCalculations\obj\Debug\net10.0\L1CircleCalculations.dll
+D:\CODING\Practice\L1CircleCalculations\L1CircleCalculations\obj\Debug\net10.0\refint\L1CircleCalculations.dll
+D:\CODING\Practice\L1CircleCalculations\L1CircleCalculations\obj\Debug\net10.0\L1CircleCalculations.pdb
+D:\CODING\Practice\L1CircleCalculations\L1CircleCalculations\obj\Debug\net10.0\L1CircleCalculations.genruntimeconfig.cache
+D:\CODING\Practice\L1CircleCalculations\L1CircleCalculations\obj\Debug\net10.0\ref\L1CircleCalculations.dll
+D:\CODING\Practice\L1CircleCalculations\L1CircleCalculations\obj\Debug\net10.0\L1Circle.E8AE9C8B.Up2Date

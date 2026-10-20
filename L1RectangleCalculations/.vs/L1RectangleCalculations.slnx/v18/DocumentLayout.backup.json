@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CODING\\Practice\\L1RectangleCalculations\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06FA7203-F4E7-4052-A90A-AB5496106EEA}|L1RectangleCalculations\\L1RectangleCalculations.csproj|d:\\coding\\practice\\l1rectanglecalculations\\l1rectanglecalculations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06FA7203-F4E7-4052-A90A-AB5496106EEA}|L1RectangleCalculations\\L1RectangleCalculations.csproj|solutionrelative:l1rectanglecalculations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CODING\\Practice\\L1RectangleCalculations\\L1RectangleCalculations\\Program.cs",
+              "RelativeDocumentMoniker": "L1RectangleCalculations\\Program.cs",
+              "ToolTip": "D:\\CODING\\Practice\\L1RectangleCalculations\\L1RectangleCalculations\\Program.cs*",
+              "RelativeToolTip": "L1RectangleCalculations\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T09:24:35.296Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

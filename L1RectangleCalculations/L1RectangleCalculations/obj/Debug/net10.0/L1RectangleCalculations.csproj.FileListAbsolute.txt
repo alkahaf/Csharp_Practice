@@ -1,0 +1,15 @@
+D:\CODING\Practice\L1RectangleCalculations\L1RectangleCalculations\bin\Debug\net10.0\L1RectangleCalculations.exe
+D:\CODING\Practice\L1RectangleCalculations\L1RectangleCalculations\bin\Debug\net10.0\L1RectangleCalculations.deps.json
+D:\CODING\Practice\L1RectangleCalculations\L1RectangleCalculations\bin\Debug\net10.0\L1RectangleCalculations.runtimeconfig.json
+D:\CODING\Practice\L1RectangleCalculations\L1RectangleCalculations\bin\Debug\net10.0\L1RectangleCalculations.dll
+D:\CODING\Practice\L1RectangleCalculations\L1RectangleCalculations\bin\Debug\net10.0\L1RectangleCalculations.pdb
+D:\CODING\Practice\L1RectangleCalculations\L1RectangleCalculations\obj\Debug\net10.0\L1RectangleCalculations.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODING\Practice\L1RectangleCalculations\L1RectangleCalculations\obj\Debug\net10.0\L1RectangleCalculations.AssemblyInfoInputs.cache
+D:\CODING\Practice\L1RectangleCalculations\L1RectangleCalculations\obj\Debug\net10.0\L1RectangleCalculations.AssemblyInfo.cs
+D:\CODING\Practice\L1RectangleCalculations\L1RectangleCalculations\obj\Debug\net10.0\L1RectangleCalculations.csproj.CoreCompileInputs.cache
+D:\CODING\Practice\L1RectangleCalculations\L1RectangleCalculations\obj\Debug\net10.0\L1RectangleCalculations.dll
+D:\CODING\Practice\L1RectangleCalculations\L1RectangleCalculations\obj\Debug\net10.0\refint\L1RectangleCalculations.dll
+D:\CODING\Practice\L1RectangleCalculations\L1RectangleCalculations\obj\Debug\net10.0\L1RectangleCalculations.pdb
+D:\CODING\Practice\L1RectangleCalculations\L1RectangleCalculations\obj\Debug\net10.0\L1RectangleCalculations.genruntimeconfig.cache
+D:\CODING\Practice\L1RectangleCalculations\L1RectangleCalculations\obj\Debug\net10.0\ref\L1RectangleCalculations.dll
+D:\CODING\Practice\L1RectangleCalculations\L1RectangleCalculations\obj\Debug\net10.0\L1Rectan.FFF4D053.Up2Date

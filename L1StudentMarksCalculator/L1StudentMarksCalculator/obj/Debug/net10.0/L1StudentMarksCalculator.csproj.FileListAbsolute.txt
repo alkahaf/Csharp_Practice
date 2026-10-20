@@ -1,0 +1,15 @@
+D:\CODING\Practice\L1StudentMarksCalculator\L1StudentMarksCalculator\bin\Debug\net10.0\L1StudentMarksCalculator.exe
+D:\CODING\Practice\L1StudentMarksCalculator\L1StudentMarksCalculator\bin\Debug\net10.0\L1StudentMarksCalculator.deps.json
+D:\CODING\Practice\L1StudentMarksCalculator\L1StudentMarksCalculator\bin\Debug\net10.0\L1StudentMarksCalculator.runtimeconfig.json
+D:\CODING\Practice\L1StudentMarksCalculator\L1StudentMarksCalculator\bin\Debug\net10.0\L1StudentMarksCalculator.dll
+D:\CODING\Practice\L1StudentMarksCalculator\L1StudentMarksCalculator\bin\Debug\net10.0\L1StudentMarksCalculator.pdb
+D:\CODING\Practice\L1StudentMarksCalculator\L1StudentMarksCalculator\obj\Debug\net10.0\L1StudentMarksCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODING\Practice\L1StudentMarksCalculator\L1StudentMarksCalculator\obj\Debug\net10.0\L1StudentMarksCalculator.AssemblyInfoInputs.cache
+D:\CODING\Practice\L1StudentMarksCalculator\L1StudentMarksCalculator\obj\Debug\net10.0\L1StudentMarksCalculator.AssemblyInfo.cs
+D:\CODING\Practice\L1StudentMarksCalculator\L1StudentMarksCalculator\obj\Debug\net10.0\L1StudentMarksCalculator.csproj.CoreCompileInputs.cache
+D:\CODING\Practice\L1StudentMarksCalculator\L1StudentMarksCalculator\obj\Debug\net10.0\L1StudentMarksCalculator.dll
+D:\CODING\Practice\L1StudentMarksCalculator\L1StudentMarksCalculator\obj\Debug\net10.0\refint\L1StudentMarksCalculator.dll
+D:\CODING\Practice\L1StudentMarksCalculator\L1StudentMarksCalculator\obj\Debug\net10.0\L1StudentMarksCalculator.pdb
+D:\CODING\Practice\L1StudentMarksCalculator\L1StudentMarksCalculator\obj\Debug\net10.0\L1StudentMarksCalculator.genruntimeconfig.cache
+D:\CODING\Practice\L1StudentMarksCalculator\L1StudentMarksCalculator\obj\Debug\net10.0\ref\L1StudentMarksCalculator.dll
+D:\CODING\Practice\L1StudentMarksCalculator\L1StudentMarksCalculator\obj\Debug\net10.0\L1Studen.DE8A966A.Up2Date

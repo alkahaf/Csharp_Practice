@@ -1,0 +1,15 @@
+D:\CODING\Practice\L1SwapTwoNumbers\L1SwapTwoNumbers\bin\Debug\net10.0\L1SwapTwoNumbers.exe
+D:\CODING\Practice\L1SwapTwoNumbers\L1SwapTwoNumbers\bin\Debug\net10.0\L1SwapTwoNumbers.deps.json
+D:\CODING\Practice\L1SwapTwoNumbers\L1SwapTwoNumbers\bin\Debug\net10.0\L1SwapTwoNumbers.runtimeconfig.json
+D:\CODING\Practice\L1SwapTwoNumbers\L1SwapTwoNumbers\bin\Debug\net10.0\L1SwapTwoNumbers.dll
+D:\CODING\Practice\L1SwapTwoNumbers\L1SwapTwoNumbers\bin\Debug\net10.0\L1SwapTwoNumbers.pdb
+D:\CODING\Practice\L1SwapTwoNumbers\L1SwapTwoNumbers\obj\Debug\net10.0\L1SwapTwoNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODING\Practice\L1SwapTwoNumbers\L1SwapTwoNumbers\obj\Debug\net10.0\L1SwapTwoNumbers.AssemblyInfoInputs.cache
+D:\CODING\Practice\L1SwapTwoNumbers\L1SwapTwoNumbers\obj\Debug\net10.0\L1SwapTwoNumbers.AssemblyInfo.cs
+D:\CODING\Practice\L1SwapTwoNumbers\L1SwapTwoNumbers\obj\Debug\net10.0\L1SwapTwoNumbers.csproj.CoreCompileInputs.cache
+D:\CODING\Practice\L1SwapTwoNumbers\L1SwapTwoNumbers\obj\Debug\net10.0\L1SwapTwoNumbers.dll
+D:\CODING\Practice\L1SwapTwoNumbers\L1SwapTwoNumbers\obj\Debug\net10.0\refint\L1SwapTwoNumbers.dll
+D:\CODING\Practice\L1SwapTwoNumbers\L1SwapTwoNumbers\obj\Debug\net10.0\L1SwapTwoNumbers.pdb
+D:\CODING\Practice\L1SwapTwoNumbers\L1SwapTwoNumbers\obj\Debug\net10.0\L1SwapTwoNumbers.genruntimeconfig.cache
+D:\CODING\Practice\L1SwapTwoNumbers\L1SwapTwoNumbers\obj\Debug\net10.0\ref\L1SwapTwoNumbers.dll
+D:\CODING\Practice\L1SwapTwoNumbers\L1SwapTwoNumbers\obj\Debug\net10.0\L1SwapTw.029D031D.Up2Date

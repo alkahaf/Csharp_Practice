@@ -1,0 +1,15 @@
+D:\CODING\Practice\L1BasicArithmeticOperations\L1BasicArithmeticOperations\bin\Debug\net10.0\L1BasicArithmeticOperations.exe
+D:\CODING\Practice\L1BasicArithmeticOperations\L1BasicArithmeticOperations\bin\Debug\net10.0\L1BasicArithmeticOperations.deps.json
+D:\CODING\Practice\L1BasicArithmeticOperations\L1BasicArithmeticOperations\bin\Debug\net10.0\L1BasicArithmeticOperations.runtimeconfig.json
+D:\CODING\Practice\L1BasicArithmeticOperations\L1BasicArithmeticOperations\bin\Debug\net10.0\L1BasicArithmeticOperations.dll
+D:\CODING\Practice\L1BasicArithmeticOperations\L1BasicArithmeticOperations\bin\Debug\net10.0\L1BasicArithmeticOperations.pdb
+D:\CODING\Practice\L1BasicArithmeticOperations\L1BasicArithmeticOperations\obj\Debug\net10.0\L1BasicArithmeticOperations.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODING\Practice\L1BasicArithmeticOperations\L1BasicArithmeticOperations\obj\Debug\net10.0\L1BasicArithmeticOperations.AssemblyInfoInputs.cache
+D:\CODING\Practice\L1BasicArithmeticOperations\L1BasicArithmeticOperations\obj\Debug\net10.0\L1BasicArithmeticOperations.AssemblyInfo.cs
+D:\CODING\Practice\L1BasicArithmeticOperations\L1BasicArithmeticOperations\obj\Debug\net10.0\L1BasicArithmeticOperations.csproj.CoreCompileInputs.cache
+D:\CODING\Practice\L1BasicArithmeticOperations\L1BasicArithmeticOperations\obj\Debug\net10.0\L1BasicArithmeticOperations.dll
+D:\CODING\Practice\L1BasicArithmeticOperations\L1BasicArithmeticOperations\obj\Debug\net10.0\refint\L1BasicArithmeticOperations.dll
+D:\CODING\Practice\L1BasicArithmeticOperations\L1BasicArithmeticOperations\obj\Debug\net10.0\L1BasicArithmeticOperations.pdb
+D:\CODING\Practice\L1BasicArithmeticOperations\L1BasicArithmeticOperations\obj\Debug\net10.0\L1BasicArithmeticOperations.genruntimeconfig.cache
+D:\CODING\Practice\L1BasicArithmeticOperations\L1BasicArithmeticOperations\obj\Debug\net10.0\ref\L1BasicArithmeticOperations.dll
+D:\CODING\Practice\L1BasicArithmeticOperations\L1BasicArithmeticOperations\obj\Debug\net10.0\L1BasicA.482294C4.Up2Date

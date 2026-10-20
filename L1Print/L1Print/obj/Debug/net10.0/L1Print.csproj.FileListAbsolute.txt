@@ -1,0 +1,15 @@
+D:\CODING\Projects\L1Print\L1Print\bin\Debug\net10.0\L1Print.exe
+D:\CODING\Projects\L1Print\L1Print\bin\Debug\net10.0\L1Print.deps.json
+D:\CODING\Projects\L1Print\L1Print\bin\Debug\net10.0\L1Print.runtimeconfig.json
+D:\CODING\Projects\L1Print\L1Print\bin\Debug\net10.0\L1Print.dll
+D:\CODING\Projects\L1Print\L1Print\bin\Debug\net10.0\L1Print.pdb
+D:\CODING\Projects\L1Print\L1Print\obj\Debug\net10.0\L1Print.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODING\Projects\L1Print\L1Print\obj\Debug\net10.0\L1Print.AssemblyInfoInputs.cache
+D:\CODING\Projects\L1Print\L1Print\obj\Debug\net10.0\L1Print.AssemblyInfo.cs
+D:\CODING\Projects\L1Print\L1Print\obj\Debug\net10.0\L1Print.csproj.CoreCompileInputs.cache
+D:\CODING\Projects\L1Print\L1Print\obj\Debug\net10.0\L1Print.dll
+D:\CODING\Projects\L1Print\L1Print\obj\Debug\net10.0\refint\L1Print.dll
+D:\CODING\Projects\L1Print\L1Print\obj\Debug\net10.0\L1Print.pdb
+D:\CODING\Projects\L1Print\L1Print\obj\Debug\net10.0\L1Print.genruntimeconfig.cache
+D:\CODING\Projects\L1Print\L1Print\obj\Debug\net10.0\ref\L1Print.dll
+D:\CODING\Projects\L1Print\L1Print\obj\Debug\net10.0\L1Print.csproj.Up2Date

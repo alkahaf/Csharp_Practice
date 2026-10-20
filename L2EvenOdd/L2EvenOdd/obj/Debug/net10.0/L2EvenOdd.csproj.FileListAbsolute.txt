@@ -1,0 +1,15 @@
+D:\CODING\Practice\L2EvenOdd\L2EvenOdd\bin\Debug\net10.0\L2EvenOdd.exe
+D:\CODING\Practice\L2EvenOdd\L2EvenOdd\bin\Debug\net10.0\L2EvenOdd.deps.json
+D:\CODING\Practice\L2EvenOdd\L2EvenOdd\bin\Debug\net10.0\L2EvenOdd.runtimeconfig.json
+D:\CODING\Practice\L2EvenOdd\L2EvenOdd\bin\Debug\net10.0\L2EvenOdd.dll
+D:\CODING\Practice\L2EvenOdd\L2EvenOdd\bin\Debug\net10.0\L2EvenOdd.pdb
+D:\CODING\Practice\L2EvenOdd\L2EvenOdd\obj\Debug\net10.0\L2EvenOdd.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODING\Practice\L2EvenOdd\L2EvenOdd\obj\Debug\net10.0\L2EvenOdd.AssemblyInfoInputs.cache
+D:\CODING\Practice\L2EvenOdd\L2EvenOdd\obj\Debug\net10.0\L2EvenOdd.AssemblyInfo.cs
+D:\CODING\Practice\L2EvenOdd\L2EvenOdd\obj\Debug\net10.0\L2EvenOdd.csproj.CoreCompileInputs.cache
+D:\CODING\Practice\L2EvenOdd\L2EvenOdd\obj\Debug\net10.0\L2EvenOdd.dll
+D:\CODING\Practice\L2EvenOdd\L2EvenOdd\obj\Debug\net10.0\refint\L2EvenOdd.dll
+D:\CODING\Practice\L2EvenOdd\L2EvenOdd\obj\Debug\net10.0\L2EvenOdd.pdb
+D:\CODING\Practice\L2EvenOdd\L2EvenOdd\obj\Debug\net10.0\L2EvenOdd.genruntimeconfig.cache
+D:\CODING\Practice\L2EvenOdd\L2EvenOdd\obj\Debug\net10.0\ref\L2EvenOdd.dll
+D:\CODING\Practice\L2EvenOdd\L2EvenOdd\obj\Debug\net10.0\L2EvenOdd.csproj.Up2Date

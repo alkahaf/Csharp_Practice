@@ -1,0 +1,15 @@
+D:\CODING\Practice\L2NumberChecker\L2NumberChecker\bin\Debug\net10.0\L2NumberChecker.exe
+D:\CODING\Practice\L2NumberChecker\L2NumberChecker\bin\Debug\net10.0\L2NumberChecker.deps.json
+D:\CODING\Practice\L2NumberChecker\L2NumberChecker\bin\Debug\net10.0\L2NumberChecker.runtimeconfig.json
+D:\CODING\Practice\L2NumberChecker\L2NumberChecker\bin\Debug\net10.0\L2NumberChecker.dll
+D:\CODING\Practice\L2NumberChecker\L2NumberChecker\bin\Debug\net10.0\L2NumberChecker.pdb
+D:\CODING\Practice\L2NumberChecker\L2NumberChecker\obj\Debug\net10.0\L2NumberChecker.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODING\Practice\L2NumberChecker\L2NumberChecker\obj\Debug\net10.0\L2NumberChecker.AssemblyInfoInputs.cache
+D:\CODING\Practice\L2NumberChecker\L2NumberChecker\obj\Debug\net10.0\L2NumberChecker.AssemblyInfo.cs
+D:\CODING\Practice\L2NumberChecker\L2NumberChecker\obj\Debug\net10.0\L2NumberChecker.csproj.CoreCompileInputs.cache
+D:\CODING\Practice\L2NumberChecker\L2NumberChecker\obj\Debug\net10.0\L2NumberChecker.dll
+D:\CODING\Practice\L2NumberChecker\L2NumberChecker\obj\Debug\net10.0\refint\L2NumberChecker.dll
+D:\CODING\Practice\L2NumberChecker\L2NumberChecker\obj\Debug\net10.0\L2NumberChecker.pdb
+D:\CODING\Practice\L2NumberChecker\L2NumberChecker\obj\Debug\net10.0\L2NumberChecker.genruntimeconfig.cache
+D:\CODING\Practice\L2NumberChecker\L2NumberChecker\obj\Debug\net10.0\ref\L2NumberChecker.dll
+D:\CODING\Practice\L2NumberChecker\L2NumberChecker\obj\Debug\net10.0\L2Number.95AB8243.Up2Date

@@ -1,0 +1,15 @@
+D:\CODING\Practice\L1CelsiusToFahrenheit\L1CelsiusToFahrenheit\bin\Debug\net10.0\L1CelsiusToFahrenheit.exe
+D:\CODING\Practice\L1CelsiusToFahrenheit\L1CelsiusToFahrenheit\bin\Debug\net10.0\L1CelsiusToFahrenheit.deps.json
+D:\CODING\Practice\L1CelsiusToFahrenheit\L1CelsiusToFahrenheit\bin\Debug\net10.0\L1CelsiusToFahrenheit.runtimeconfig.json
+D:\CODING\Practice\L1CelsiusToFahrenheit\L1CelsiusToFahrenheit\bin\Debug\net10.0\L1CelsiusToFahrenheit.dll
+D:\CODING\Practice\L1CelsiusToFahrenheit\L1CelsiusToFahrenheit\bin\Debug\net10.0\L1CelsiusToFahrenheit.pdb
+D:\CODING\Practice\L1CelsiusToFahrenheit\L1CelsiusToFahrenheit\obj\Debug\net10.0\L1CelsiusToFahrenheit.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODING\Practice\L1CelsiusToFahrenheit\L1CelsiusToFahrenheit\obj\Debug\net10.0\L1CelsiusToFahrenheit.AssemblyInfoInputs.cache
+D:\CODING\Practice\L1CelsiusToFahrenheit\L1CelsiusToFahrenheit\obj\Debug\net10.0\L1CelsiusToFahrenheit.AssemblyInfo.cs
+D:\CODING\Practice\L1CelsiusToFahrenheit\L1CelsiusToFahrenheit\obj\Debug\net10.0\L1CelsiusToFahrenheit.csproj.CoreCompileInputs.cache
+D:\CODING\Practice\L1CelsiusToFahrenheit\L1CelsiusToFahrenheit\obj\Debug\net10.0\L1CelsiusToFahrenheit.dll
+D:\CODING\Practice\L1CelsiusToFahrenheit\L1CelsiusToFahrenheit\obj\Debug\net10.0\refint\L1CelsiusToFahrenheit.dll
+D:\CODING\Practice\L1CelsiusToFahrenheit\L1CelsiusToFahrenheit\obj\Debug\net10.0\L1CelsiusToFahrenheit.pdb
+D:\CODING\Practice\L1CelsiusToFahrenheit\L1CelsiusToFahrenheit\obj\Debug\net10.0\L1CelsiusToFahrenheit.genruntimeconfig.cache
+D:\CODING\Practice\L1CelsiusToFahrenheit\L1CelsiusToFahrenheit\obj\Debug\net10.0\ref\L1CelsiusToFahrenheit.dll
+D:\CODING\Practice\L1CelsiusToFahrenheit\L1CelsiusToFahrenheit\obj\Debug\net10.0\L1Celsiu.CEFD5DB5.Up2Date
