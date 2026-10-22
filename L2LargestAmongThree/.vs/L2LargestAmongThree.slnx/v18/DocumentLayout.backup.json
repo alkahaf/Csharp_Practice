@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CODING\\Practice\\L2LargestAmongThree\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69A0BF1E-45D1-40AF-9AB0-3D5E8FD4E118}|L2LargestAmongThree\\L2LargestAmongThree.csproj|d:\\coding\\practice\\l2largestamongthree\\l2largestamongthree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A0BF1E-45D1-40AF-9AB0-3D5E8FD4E118}|L2LargestAmongThree\\L2LargestAmongThree.csproj|solutionrelative:l2largestamongthree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CODING\\Practice\\L2LargestAmongThree\\L2LargestAmongThree\\Program.cs",
+              "RelativeDocumentMoniker": "L2LargestAmongThree\\Program.cs",
+              "ToolTip": "D:\\CODING\\Practice\\L2LargestAmongThree\\L2LargestAmongThree\\Program.cs*",
+              "RelativeToolTip": "L2LargestAmongThree\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T04:57:51.467Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

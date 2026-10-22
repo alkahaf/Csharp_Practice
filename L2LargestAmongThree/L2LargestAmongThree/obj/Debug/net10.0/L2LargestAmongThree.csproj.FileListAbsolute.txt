@@ -1,0 +1,16 @@
+D:\CODING\Practice\L2LargestAmongThree\L2LargestAmongThree\bin\Debug\net10.0\L2LargestAmongThree.exe
+D:\CODING\Practice\L2LargestAmongThree\L2LargestAmongThree\bin\Debug\net10.0\L2LargestAmongThree.deps.json
+D:\CODING\Practice\L2LargestAmongThree\L2LargestAmongThree\bin\Debug\net10.0\L2LargestAmongThree.runtimeconfig.json
+D:\CODING\Practice\L2LargestAmongThree\L2LargestAmongThree\bin\Debug\net10.0\L2LargestAmongThree.dll
+D:\CODING\Practice\L2LargestAmongThree\L2LargestAmongThree\bin\Debug\net10.0\L2LargestAmongThree.pdb
+D:\CODING\Practice\L2LargestAmongThree\L2LargestAmongThree\obj\Debug\net10.0\L2LargestAmongThree.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODING\Practice\L2LargestAmongThree\L2LargestAmongThree\obj\Debug\net10.0\L2LargestAmongThree.AssemblyInfoInputs.cache
+D:\CODING\Practice\L2LargestAmongThree\L2LargestAmongThree\obj\Debug\net10.0\L2LargestAmongThree.AssemblyInfo.cs
+D:\CODING\Practice\L2LargestAmongThree\L2LargestAmongThree\obj\Debug\net10.0\L2LargestAmongThree.csproj.CoreCompileInputs.cache
+D:\CODING\Practice\L2LargestAmongThree\L2LargestAmongThree\obj\Debug\net10.0\L2LargestAmongThree.sourcelink.json
+D:\CODING\Practice\L2LargestAmongThree\L2LargestAmongThree\obj\Debug\net10.0\L2LargestAmongThree.dll
+D:\CODING\Practice\L2LargestAmongThree\L2LargestAmongThree\obj\Debug\net10.0\refint\L2LargestAmongThree.dll
+D:\CODING\Practice\L2LargestAmongThree\L2LargestAmongThree\obj\Debug\net10.0\L2LargestAmongThree.pdb
+D:\CODING\Practice\L2LargestAmongThree\L2LargestAmongThree\obj\Debug\net10.0\L2LargestAmongThree.genruntimeconfig.cache
+D:\CODING\Practice\L2LargestAmongThree\L2LargestAmongThree\obj\Debug\net10.0\ref\L2LargestAmongThree.dll
+D:\CODING\Practice\L2LargestAmongThree\L2LargestAmongThree\obj\Debug\net10.0\L2Larges.005A3CA5.Up2Date
