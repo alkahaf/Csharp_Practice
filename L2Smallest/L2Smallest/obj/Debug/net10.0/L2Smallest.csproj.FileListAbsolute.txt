@@ -1,0 +1,16 @@
+D:\CODING\Practice\L2Smallest\L2Smallest\bin\Debug\net10.0\L2Smallest.exe
+D:\CODING\Practice\L2Smallest\L2Smallest\bin\Debug\net10.0\L2Smallest.deps.json
+D:\CODING\Practice\L2Smallest\L2Smallest\bin\Debug\net10.0\L2Smallest.runtimeconfig.json
+D:\CODING\Practice\L2Smallest\L2Smallest\bin\Debug\net10.0\L2Smallest.dll
+D:\CODING\Practice\L2Smallest\L2Smallest\bin\Debug\net10.0\L2Smallest.pdb
+D:\CODING\Practice\L2Smallest\L2Smallest\obj\Debug\net10.0\L2Smallest.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODING\Practice\L2Smallest\L2Smallest\obj\Debug\net10.0\L2Smallest.AssemblyInfoInputs.cache
+D:\CODING\Practice\L2Smallest\L2Smallest\obj\Debug\net10.0\L2Smallest.AssemblyInfo.cs
+D:\CODING\Practice\L2Smallest\L2Smallest\obj\Debug\net10.0\L2Smallest.csproj.CoreCompileInputs.cache
+D:\CODING\Practice\L2Smallest\L2Smallest\obj\Debug\net10.0\L2Smallest.sourcelink.json
+D:\CODING\Practice\L2Smallest\L2Smallest\obj\Debug\net10.0\L2Smallest.dll
+D:\CODING\Practice\L2Smallest\L2Smallest\obj\Debug\net10.0\refint\L2Smallest.dll
+D:\CODING\Practice\L2Smallest\L2Smallest\obj\Debug\net10.0\L2Smallest.pdb
+D:\CODING\Practice\L2Smallest\L2Smallest\obj\Debug\net10.0\L2Smallest.genruntimeconfig.cache
+D:\CODING\Practice\L2Smallest\L2Smallest\obj\Debug\net10.0\ref\L2Smallest.dll
+D:\CODING\Practice\L2Smallest\L2Smallest\obj\Debug\net10.0\L2Smallest.csproj.Up2Date
