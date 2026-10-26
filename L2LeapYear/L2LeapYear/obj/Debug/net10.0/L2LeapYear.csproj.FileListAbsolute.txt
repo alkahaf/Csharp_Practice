@@ -1,0 +1,16 @@
+D:\CODING\Practice\L2LeapYear\L2LeapYear\bin\Debug\net10.0\L2LeapYear.exe
+D:\CODING\Practice\L2LeapYear\L2LeapYear\bin\Debug\net10.0\L2LeapYear.deps.json
+D:\CODING\Practice\L2LeapYear\L2LeapYear\bin\Debug\net10.0\L2LeapYear.runtimeconfig.json
+D:\CODING\Practice\L2LeapYear\L2LeapYear\bin\Debug\net10.0\L2LeapYear.dll
+D:\CODING\Practice\L2LeapYear\L2LeapYear\bin\Debug\net10.0\L2LeapYear.pdb
+D:\CODING\Practice\L2LeapYear\L2LeapYear\obj\Debug\net10.0\L2LeapYear.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODING\Practice\L2LeapYear\L2LeapYear\obj\Debug\net10.0\L2LeapYear.AssemblyInfoInputs.cache
+D:\CODING\Practice\L2LeapYear\L2LeapYear\obj\Debug\net10.0\L2LeapYear.AssemblyInfo.cs
+D:\CODING\Practice\L2LeapYear\L2LeapYear\obj\Debug\net10.0\L2LeapYear.csproj.CoreCompileInputs.cache
+D:\CODING\Practice\L2LeapYear\L2LeapYear\obj\Debug\net10.0\L2LeapYear.sourcelink.json
+D:\CODING\Practice\L2LeapYear\L2LeapYear\obj\Debug\net10.0\L2LeapYear.dll
+D:\CODING\Practice\L2LeapYear\L2LeapYear\obj\Debug\net10.0\refint\L2LeapYear.dll
+D:\CODING\Practice\L2LeapYear\L2LeapYear\obj\Debug\net10.0\L2LeapYear.pdb
+D:\CODING\Practice\L2LeapYear\L2LeapYear\obj\Debug\net10.0\L2LeapYear.genruntimeconfig.cache
+D:\CODING\Practice\L2LeapYear\L2LeapYear\obj\Debug\net10.0\ref\L2LeapYear.dll
+D:\CODING\Practice\L2LeapYear\L2LeapYear\obj\Debug\net10.0\L2LeapYear.csproj.Up2Date
