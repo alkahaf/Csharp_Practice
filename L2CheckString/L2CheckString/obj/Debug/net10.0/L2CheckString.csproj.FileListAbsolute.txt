@@ -1,0 +1,16 @@
+D:\CODING\Practice\L2CheckString\L2CheckString\bin\Debug\net10.0\L2CheckString.exe
+D:\CODING\Practice\L2CheckString\L2CheckString\bin\Debug\net10.0\L2CheckString.deps.json
+D:\CODING\Practice\L2CheckString\L2CheckString\bin\Debug\net10.0\L2CheckString.runtimeconfig.json
+D:\CODING\Practice\L2CheckString\L2CheckString\bin\Debug\net10.0\L2CheckString.dll
+D:\CODING\Practice\L2CheckString\L2CheckString\bin\Debug\net10.0\L2CheckString.pdb
+D:\CODING\Practice\L2CheckString\L2CheckString\obj\Debug\net10.0\L2CheckString.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODING\Practice\L2CheckString\L2CheckString\obj\Debug\net10.0\L2CheckString.AssemblyInfoInputs.cache
+D:\CODING\Practice\L2CheckString\L2CheckString\obj\Debug\net10.0\L2CheckString.AssemblyInfo.cs
+D:\CODING\Practice\L2CheckString\L2CheckString\obj\Debug\net10.0\L2CheckString.csproj.CoreCompileInputs.cache
+D:\CODING\Practice\L2CheckString\L2CheckString\obj\Debug\net10.0\L2CheckString.sourcelink.json
+D:\CODING\Practice\L2CheckString\L2CheckString\obj\Debug\net10.0\L2CheckString.dll
+D:\CODING\Practice\L2CheckString\L2CheckString\obj\Debug\net10.0\refint\L2CheckString.dll
+D:\CODING\Practice\L2CheckString\L2CheckString\obj\Debug\net10.0\L2CheckString.pdb
+D:\CODING\Practice\L2CheckString\L2CheckString\obj\Debug\net10.0\L2CheckString.genruntimeconfig.cache
+D:\CODING\Practice\L2CheckString\L2CheckString\obj\Debug\net10.0\ref\L2CheckString.dll
+D:\CODING\Practice\L2CheckString\L2CheckString\obj\Debug\net10.0\L2CheckS.296E42B3.Up2Date

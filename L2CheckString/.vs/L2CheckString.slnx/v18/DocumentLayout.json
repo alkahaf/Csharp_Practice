@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CODING\\Practice\\L2CheckString\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC1344C1-5FFA-40C5-894F-64055264FB62}|L2CheckString\\L2CheckString.csproj|d:\\coding\\practice\\l2checkstring\\l2checkstring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC1344C1-5FFA-40C5-894F-64055264FB62}|L2CheckString\\L2CheckString.csproj|solutionrelative:l2checkstring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CODING\\Practice\\L2CheckString\\L2CheckString\\Program.cs",
+              "RelativeDocumentMoniker": "L2CheckString\\Program.cs",
+              "ToolTip": "D:\\CODING\\Practice\\L2CheckString\\L2CheckString\\Program.cs",
+              "RelativeToolTip": "L2CheckString\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T05:26:42.707Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

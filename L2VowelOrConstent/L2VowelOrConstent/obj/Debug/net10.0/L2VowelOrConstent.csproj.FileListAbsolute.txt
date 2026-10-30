@@ -1,0 +1,16 @@
+D:\CODING\Practice\L2VowelOrConstent\L2VowelOrConstent\bin\Debug\net10.0\L2VowelOrConstent.exe
+D:\CODING\Practice\L2VowelOrConstent\L2VowelOrConstent\bin\Debug\net10.0\L2VowelOrConstent.deps.json
+D:\CODING\Practice\L2VowelOrConstent\L2VowelOrConstent\bin\Debug\net10.0\L2VowelOrConstent.runtimeconfig.json
+D:\CODING\Practice\L2VowelOrConstent\L2VowelOrConstent\bin\Debug\net10.0\L2VowelOrConstent.dll
+D:\CODING\Practice\L2VowelOrConstent\L2VowelOrConstent\bin\Debug\net10.0\L2VowelOrConstent.pdb
+D:\CODING\Practice\L2VowelOrConstent\L2VowelOrConstent\obj\Debug\net10.0\L2VowelOrConstent.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODING\Practice\L2VowelOrConstent\L2VowelOrConstent\obj\Debug\net10.0\L2VowelOrConstent.AssemblyInfoInputs.cache
+D:\CODING\Practice\L2VowelOrConstent\L2VowelOrConstent\obj\Debug\net10.0\L2VowelOrConstent.AssemblyInfo.cs
+D:\CODING\Practice\L2VowelOrConstent\L2VowelOrConstent\obj\Debug\net10.0\L2VowelOrConstent.csproj.CoreCompileInputs.cache
+D:\CODING\Practice\L2VowelOrConstent\L2VowelOrConstent\obj\Debug\net10.0\L2VowelOrConstent.sourcelink.json
+D:\CODING\Practice\L2VowelOrConstent\L2VowelOrConstent\obj\Debug\net10.0\L2VowelOrConstent.dll
+D:\CODING\Practice\L2VowelOrConstent\L2VowelOrConstent\obj\Debug\net10.0\refint\L2VowelOrConstent.dll
+D:\CODING\Practice\L2VowelOrConstent\L2VowelOrConstent\obj\Debug\net10.0\L2VowelOrConstent.pdb
+D:\CODING\Practice\L2VowelOrConstent\L2VowelOrConstent\obj\Debug\net10.0\L2VowelOrConstent.genruntimeconfig.cache
+D:\CODING\Practice\L2VowelOrConstent\L2VowelOrConstent\obj\Debug\net10.0\ref\L2VowelOrConstent.dll
+D:\CODING\Practice\L2VowelOrConstent\L2VowelOrConstent\obj\Debug\net10.0\L2VowelO.799224CB.Up2Date
